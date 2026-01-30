@@ -1,0 +1,47 @@
+com.example.projectmanager.app-sqlite-2.4.0-0 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\012d090790191d5b57a91834d2e5d4e7\transformed\sqlite-2.4.0\res
+com.example.projectmanager.app-savedstate-ktx-1.2.1-1 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\047bca117fb43b122451c07f5071250f\transformed\savedstate-ktx-1.2.1\res
+com.example.projectmanager.app-material3-1.1.1-2 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\0b955e623d40cb9aa7e3cfbad50486ec\transformed\material3-1.1.1\res
+com.example.projectmanager.app-room-ktx-2.6.0-3 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\0cc21c973cd14e753e378bc09e243252\transformed\room-ktx-2.6.0\res
+com.example.projectmanager.app-annotation-experimental-1.3.0-4 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\16ddb01f23445c8fec78879754673e63\transformed\annotation-experimental-1.3.0\res
+com.example.projectmanager.app-runtime-release-5 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\1a990636c35493fa42f27d59177cf22f\transformed\runtime-release\res
+com.example.projectmanager.app-ui-unit-release-6 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\1ac240a67d869faf325826e56b5e2cc0\transformed\ui-unit-release\res
+com.example.projectmanager.app-lifecycle-viewmodel-compose-2.6.2-7 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\1e0be913c47fc94055e36003944f5b5a\transformed\lifecycle-viewmodel-compose-2.6.2\res
+com.example.projectmanager.app-room-runtime-2.6.0-8 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\23902f2d210487be64a37a516fa84503\transformed\room-runtime-2.6.0\res
+com.example.projectmanager.app-lifecycle-runtime-ktx-2.6.2-9 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\29995f0e66ebf2b6157fa35190088fbd\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.projectmanager.app-activity-compose-1.8.1-10 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\29d0fc641c060aedf2906dafc699df02\transformed\activity-compose-1.8.1\res
+com.example.projectmanager.app-ui-graphics-release-11 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\2a271d427a1e7aed3c09385bc4d8a4c6\transformed\ui-graphics-release\res
+com.example.projectmanager.app-startup-runtime-1.1.1-12 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\2ab6f9d0608746d87404fd1d7aca6d66\transformed\startup-runtime-1.1.1\res
+com.example.projectmanager.app-activity-ktx-1.8.1-13 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\2cc307eba0bf5bd8736d6e54ef5e663d\transformed\activity-ktx-1.8.1\res
+com.example.projectmanager.app-savedstate-1.2.1-14 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\2eab1787297db942b637c64cf2779a52\transformed\savedstate-1.2.1\res
+com.example.projectmanager.app-core-1.12.0-15 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\3091bb53b2addcb35b5a09b4cae8082a\transformed\core-1.12.0\res
+com.example.projectmanager.app-activity-1.8.1-16 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\31772b56a3742535806f482123ddf159\transformed\activity-1.8.1\res
+com.example.projectmanager.app-core-runtime-2.2.0-17 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\31b1c79ebfe317fdf840a37a664012e0\transformed\core-runtime-2.2.0\res
+com.example.projectmanager.app-animation-core-release-18 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\337059e3a0c6dd07859f1881a9013e22\transformed\animation-core-release\res
+com.example.projectmanager.app-material-ripple-release-19 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\34d2fcc78e1ce007e3e80a354d4a66fb\transformed\material-ripple-release\res
+com.example.projectmanager.app-ui-geometry-release-20 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\38b208f959ceb1a9a6045da534b6fbb3\transformed\ui-geometry-release\res
+com.example.projectmanager.app-animation-release-21 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\558481a30bb2a6a6f950c58c3b1c4e7b\transformed\animation-release\res
+com.example.projectmanager.app-foundation-layout-release-22 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\563548790c099ffbed96111eaa3601d9\transformed\foundation-layout-release\res
+com.example.projectmanager.app-ui-tooling-preview-release-23 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\628cd5bb11119f314dcc0c8b01039f88\transformed\ui-tooling-preview-release\res
+com.example.projectmanager.app-ui-text-release-24 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\661c6f71356f78844ccd9d0f67b9d2e3\transformed\ui-text-release\res
+com.example.projectmanager.app-customview-poolingcontainer-1.0.0-25 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\6faf892018244992c0ed2e5f66096de4\transformed\customview-poolingcontainer-1.0.0\res
+com.example.projectmanager.app-lifecycle-process-2.6.2-26 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\768b75c869823e7fd8d7d6f66ebd163f\transformed\lifecycle-process-2.6.2\res
+com.example.projectmanager.app-foundation-release-27 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\7ad3cd26a1c6ac3bdeac1d157356b6ae\transformed\foundation-release\res
+com.example.projectmanager.app-runtime-saveable-release-28 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\8f3cd610d2c924d0e781e70ae9c25dd2\transformed\runtime-saveable-release\res
+com.example.projectmanager.app-lifecycle-viewmodel-2.6.2-29 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\94253f8303ec1f60dd146439a9a60e93\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.projectmanager.app-sqlite-framework-2.4.0-30 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\a1ac8fbf3308263afeb2dfb74b34aba4\transformed\sqlite-framework-2.4.0\res
+com.example.projectmanager.app-lifecycle-viewmodel-savedstate-2.6.2-31 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\c69959d18e9cd3be11fd9d5b8fd3431b\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.projectmanager.app-lifecycle-runtime-2.6.2-32 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\c98a52f941678fbfc964464b328f6f21\transformed\lifecycle-runtime-2.6.2\res
+com.example.projectmanager.app-material-icons-core-release-33 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\d1b9055d3df689dc1059b8b759f6b0d0\transformed\material-icons-core-release\res
+com.example.projectmanager.app-ui-release-34 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\d62e0bafcf090e23bb6722f49c7df28e\transformed\ui-release\res
+com.example.projectmanager.app-lifecycle-viewmodel-ktx-2.6.2-35 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\e160ea0d64f20418e738ba0923b5b16e\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.projectmanager.app-lifecycle-livedata-core-2.6.2-36 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\e356e345fb7f275ba8dd03489ed478ae\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.projectmanager.app-ui-util-release-37 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\ec862efbb07ac2e5235800ac544bad99\transformed\ui-util-release\res
+com.example.projectmanager.app-core-ktx-1.12.0-38 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\f728f14026679850ca6336cf4d536c3c\transformed\core-ktx-1.12.0\res
+com.example.projectmanager.app-profileinstaller-1.3.0-39 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\f8fae8855c4e1c0cdcc2999b99acff58\transformed\profileinstaller-1.3.0\res
+com.example.projectmanager.app-emoji2-1.4.0-40 C:\Users\Admin\.gradle\caches\9.0-milestone-1\transforms\fb8cc92c2f243aebd9d78813fd9e4569\transformed\emoji2-1.4.0\res
+com.example.projectmanager.app-resValues-41 C:\Users\Admin\Android Studio\ITEW4\Activity 4\app\build\generated\res\resValues\debug
+com.example.projectmanager.app-packageDebugResources-42 C:\Users\Admin\Android Studio\ITEW4\Activity 4\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.projectmanager.app-packageDebugResources-43 C:\Users\Admin\Android Studio\ITEW4\Activity 4\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.projectmanager.app-merged_res-44 C:\Users\Admin\Android Studio\ITEW4\Activity 4\app\build\intermediates\merged_res\debug
+com.example.projectmanager.app-debug-45 C:\Users\Admin\Android Studio\ITEW4\Activity 4\app\src\debug\res
+com.example.projectmanager.app-main-46 C:\Users\Admin\Android Studio\ITEW4\Activity 4\app\src\main\res
